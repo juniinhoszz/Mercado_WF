@@ -1,0 +1,11 @@
+E:\Matérias\DES_SIST\WindowsForm\211377\211377\bin\Debug\211377.exe.config
+E:\Matérias\DES_SIST\WindowsForm\211377\211377\bin\Debug\211377.exe
+E:\Matérias\DES_SIST\WindowsForm\211377\211377\bin\Debug\211377.pdb
+E:\Matérias\DES_SIST\WindowsForm\211377\211377\obj\Debug\211377.csproj.AssemblyReference.cache
+E:\Matérias\DES_SIST\WindowsForm\211377\211377\obj\Debug\211377.csproj.SuggestedBindingRedirects.cache
+E:\Matérias\DES_SIST\WindowsForm\211377\211377\obj\Debug\_211377.Form1.resources
+E:\Matérias\DES_SIST\WindowsForm\211377\211377\obj\Debug\_211377.Properties.Resources.resources
+E:\Matérias\DES_SIST\WindowsForm\211377\211377\obj\Debug\211377.csproj.GenerateResource.cache
+E:\Matérias\DES_SIST\WindowsForm\211377\211377\obj\Debug\211377.csproj.CoreCompileInputs.cache
+E:\Matérias\DES_SIST\WindowsForm\211377\211377\obj\Debug\211377.exe
+E:\Matérias\DES_SIST\WindowsForm\211377\211377\obj\Debug\211377.pdb
